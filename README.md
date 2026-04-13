@@ -1,3 +1,4 @@
+<img width="1340" height="714" alt="Screenshot 2026-04-12 231103" src="https://github.com/user-attachments/assets/91f27cbc-e25e-4e88-8a76-cbf255d52f09" />
 # Bike-Purchase-Analysis
 Project Overview
 
